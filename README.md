@@ -2,7 +2,7 @@
 
 Intro 
 
-When C++11 standard introduced 'thread' as an abstraction in C++ for the first time, many knew this support was long due. The good news is the language's support for thread abstractions continues to evolve.
+When C++11 standard introduced 'thread' as an abstraction in C++ for the first time and many knew this support was long due. The good news is the language's support for thread abstractions continues to evolve.
 
 In C++17 standard, users can set 'parallel stl' as an execution policy to algorithms where it applies. With C++20 standard the evolution continues. C++20 allows composition of asynchronous tasks into a 'Work flow'.
 
