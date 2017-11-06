@@ -4,7 +4,7 @@ Intro
 
 When C++11 standard introduced 'thread' as an abstraction in C++ for the first time, many knew this support was long due. The good news is the language's support for thread abstractions continues to evolve.
 
-In C++17 standard, users can choose 'parallel stl' as as an execution policy choice for their algorithms. The C++20 standard brings with it even better parallel processing abstractions. In C++11, you cannot compose a set of tasks into a work flow. This changes with C++20 which allows a composition of tasks.
+In C++17 standard, users can set 'parallel stl' as an execution policy to the algorithms where it applies. With C++20 standard the evolution continues. In C++11, you cannot compose a set of tasks into a work flow. This changes with C++20 which allows a composition of tasks.
 
 The Parallel Dance
 
