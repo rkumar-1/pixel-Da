@@ -8,8 +8,8 @@ In C++17 standard, users can set 'parallel stl' as an execution policy to the al
 
 The Parallel Dance
 
-The Dancing Pixel (pixel-da) project researches application level access to parallel processing on multi-core systems. The aim here is to utilizeg simple primitives such as setting thread affinity to CPU cores and Process affinity and to dance with the Operating system scheduler to get access to the hardware threads. This is then benchmarked to understand performance.
+The Dancing Pixel (pixel-da) project researches application level access to parallel processing on multi-core systems. The aim here is to to dance with the Operating system scheduler to get access to the hardware threads. This is then benchmarked to understand performance.
 
-The goal here is to simplify the Application level access to parallel processing through a framework. The task is complicated by the presence of shared Caches between the CPU cores as well as network and storage bound IO.
+The goal here is to simplify the Application level access to parallel processing through a framework. The task is complicated by the presence of shared Caches between the CPU cores as well as network and storage bound IO. We plan to utilize simple primitives such as setting thread affinity to CPU cores and Process affinity.
 
 The initial build of Dancing pixel (pixel-da) is a simple collection of data strutures that get benchmarked vs stl and parallel stl.
